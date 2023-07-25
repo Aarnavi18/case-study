@@ -1,0 +1,15 @@
+h5{
+    font-size: 30px;
+    background-color: white;
+    color: red;
+    border-radius: 30px;
+}
+h2{
+    color: white;
+}
+h3{
+    font-size: 30px !important;
+    font-weight: bold;
+    color: red;
+    background-color: pink;
+}
